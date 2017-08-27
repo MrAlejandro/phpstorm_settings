@@ -1,0 +1,49 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/vbox/www/cs-cart.local" />
+        <option value="$USER_HOME$/vbox/www/test.local" />
+        <option value="$USER_HOME$/Sites/mag" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/vbox/www/cs-cart.local" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Sites/mag">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503746034518" />
+              <option name="buildTimestamp" value="1501660312466" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vbox/www/cs-cart.local">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503847100888" />
+              <option name="buildTimestamp" value="1501660273920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/vbox/www/test.local">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1503758426024" />
+              <option name="buildTimestamp" value="1501660312466" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

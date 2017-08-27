@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="ct" type="HTML" />
+      <mapping pattern="pp_dbglog_2" type="PLAIN_TEXT" />
+      <mapping pattern="url_patch" type="PLAIN_TEXT" />
+      <mapping pattern="find" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="licensing" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="mage---9a9_CORE_CACHE_INVALIDATE" type="PLAIN_TEXT" />
+      <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="minor" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="pid" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="aksjdaslkd" type="SQL" />
+    </extensionMap>
+  </component>
+</application>

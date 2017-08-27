@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <removed pattern="(key, value)" />
+        <removed pattern="\define(*,*,*)" />
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="PHP" />
+    </blacklists>
+  </component>
+</application>
