@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503768073731">
+      <file name="/Dummy.txt" timestamp="1503856469302">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/test.php" timestamp="1503855697497">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/mag/1.php" timestamp="1503748803932">
         <mark key="[" line="6" column="0" />
@@ -12,26 +18,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="/PHP Console" timestamp="1503773557752">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/admin.php" timestamp="1503847682284">
-        <mark key="'" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/mag/app/Mage.php" timestamp="1503755376461">
         <mark key="'" line="825" column="28" />
         <mark key="[" line="770" column="29" />
         <mark key="]" line="770" column="28" />
         <mark key="^" line="770" column="28" />
         <mark key="." line="770" column="28" />
-      </file>
-      <file name="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" timestamp="1503684414402">
-        <mark key="q" line="24" column="2" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1503772107235">
         <mark key="[" line="0" column="0" />
@@ -43,8 +35,11 @@
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" timestamp="1503748325987">
-        <mark key="'" line="166" column="9" />
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/Test.php" timestamp="1503856113253">
+        <mark key="[" line="12" column="77" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/vbox/www/test.local/index.php" timestamp="1503764495829">
         <mark key="'" line="2" column="0" />
@@ -53,17 +48,52 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/api.php" timestamp="1503851127001">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" timestamp="1503855510794">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1503773557752">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/admin.php" timestamp="1503849976690">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" timestamp="1503684414402">
+        <mark key="q" line="24" column="2" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/HTML Fragment (api.php:1068).html" timestamp="1503851072251">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.users.php" timestamp="1503855688512">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="18" column="51" />
+      </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/init.php" timestamp="1503849941701">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="149" column="29" />
+      </file>
+      <file name="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" timestamp="1503748325987">
+        <mark key="'" line="166" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="267" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="272" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="274" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="281" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="291" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="301" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="319" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="330" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
       <jump line="342" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
       <jump line="354" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
       <jump line="371" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
@@ -147,7 +177,6 @@
       <jump line="769" column="74" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
       <jump line="825" column="28" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
       <jump line="2" column="0" filename="$USER_HOME$/vbox/www/test.local/index.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
       <jump line="25" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
       <jump line="29" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
       <jump line="27" column="14" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
@@ -155,10 +184,20 @@
       <jump line="22" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
       <jump line="19" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
       <jump line="13" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
+      <jump line="21" column="10" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
+      <jump line="28" column="8" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
+      <jump line="71" column="15" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/test.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PHP File Header.php</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -170,40 +209,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>echo 'test';</text>
+        <text>PHP File Header.php</text>
       </register>
       <register name="/" type="4">
         <text>Exception</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwo=</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiogICAoYykgMjAwNCBWbGFkaW1pciBWLiBLYWx5bnlhaywgQWxleGV5IFYuIFZpbm9rdXJvdiwgSWx5YSBNLiBTaGFsbmV2ICAgICoKKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgoqIFRoaXMgIGlzICBjb21tZXJjaWFsICBzb2Z0d2FyZSwgIG9ubHkgIHVzZXJzICB3aG8gaGF2ZSBwdXJjaGFzZWQgYSB2YWxpZCAqCiogbGljZW5zZSAgYW5kICBhY2NlcHQgIHRvIHRoZSB0ZXJtcyBvZiB0aGUgIExpY2Vuc2UgQWdyZWVtZW50IGNhbiBpbnN0YWxsICoKKiBhbmQgdXNlIHRoaXMgcHJvZ3JhbS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgoqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKKiBQTEVBU0UgUkVBRCBUSEUgRlVMTCBURVhUICBPRiBUSEUgU09GVFdBUkUgIExJQ0VOU0UgICBBR1JFRU1FTlQgIElOICBUSEUgKgoqICJjb3B5cmlnaHQudHh0IiBGSUxFIFBST1ZJREVEIFdJVEggVEhJUyBESVNUUklCVVRJT04gUEFDS0FHRS4gICAgICAgICAgICAqCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCgp1c2UgVHlnaFxSZWdpc3RyeTsKdXNlIFR5Z2hcTmF2aWdhdGlvblxMYXN0VmlldzsKdXNlIFR5Z2hcSHR0cDsKCmlmICghZGVmaW5lZCgnQk9PVFNUUkFQJykpIHsgZGllKCdBY2Nlc3MgZGVuaWVkJyk7IH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/***************************************************************************
+*                                                                          *
+*   (c) 2004 Vladimir V. Kalynyak, Alexey V. Vinokurov, Ilya M. Shalnev    *
+*                                                                          *
+foreach ( as ) {
+
+$field_list}commercxxxial  e,  only  users  who have purchased a valid *
+* license  and  accept  to the terms of the  License Agreement can install *
+* and use this program.                                                    *
+*                                                                          *
+****************************************************************************
+* PLEASE READ THE FULL TEXT  OF THE SOFTWARE  LICENSE   AGREEMENT  IN  THE *
+* &quot;copyright.txt&quot; FILE PROVIDED WITH THIS DISTRIBUTION PACKAGE.            *
+****************************************************************************/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwo=</text>
+        <text encoding="base64">dXNlIFR5Z2hcUmVnaXN0cnk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFR5Z2hcTmF2aWdhdGlvblxMYXN0VmlldzsKdXNlIFR5Z2hcSHR0cDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFpbCgpCg==</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yZWFjaCAoJGFycmF5IGFzICRrZXkgPT4gJHZhbHVlKSB7CiAgICBlY2hvICRrZXkgLiAnID0+ICcgLiAkdmFsdWU7Cn0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKCRmaWVsZF9saXN0IGFzICkgewogICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdtYWtha2EnID0+ICdtYXphZmFrYScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgJ3Rlc3QnICA9PiAnSGVsbG8gd29ybGQnLAo=</text>
+        <text encoding="base64">dHJ5IHsKCn0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dHJ5IHsKCn0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -235,11 +287,11 @@
         <entry>wq</entry>
         <entry>q10</entry>
         <entry>set nu</entry>
-        <entry>q</entry>
         <entry>20</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>set paste</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -274,6 +326,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

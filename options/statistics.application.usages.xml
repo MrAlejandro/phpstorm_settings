@@ -5,23 +5,28 @@
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="8" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="2" />
       <entry feature="execute.PhpRemoteDebugRunConfigurationType.Debug" count="8" />
-      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Appearance" count="12" />
       <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Color_Scheme" count="1" />
+      <entry feature="ide.settings.Composer" count="1" />
       <entry feature="ide.settings.Deployment" count="11" />
+      <entry feature="ide.settings.File_Colors" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="5" />
+      <entry feature="ide.settings.General" count="1" />
       <entry feature="ide.settings.Inspections" count="2" />
-      <entry feature="ide.settings.Keymap" count="23" />
+      <entry feature="ide.settings.Keymap" count="25" />
+      <entry feature="ide.settings.Live_Templates" count="1" />
       <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
-      <entry feature="ide.settings.PHP" count="1" />
+      <entry feature="ide.settings.PHP" count="2" />
       <entry feature="ide.settings.Plugins" count="10" />
       <entry feature="ide.settings.Servers" count="5" />
       <entry feature="ide.settings.Vagrant" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="3" />
-      <entry feature="ideaapp.started" count="15" />
-      <entry feature="project.view.pane.ProjectPane" count="3" />
+      <entry feature="ideaapp.started" count="16" />
+      <entry feature="project.view.pane.ProjectPane" count="4" />
       <entry feature="project.view.pane.Scope.Changed Files" count="3" />
       <entry feature="project.view.pane.Scope.Default" count="3" />
-      <entry feature="project.view.pane.Scope.Problems" count="3" />
+      <entry feature="project.view.pane.Scope.Problems" count="4" />
       <entry feature="project.view.pane.Scope.Project Files" count="4" />
       <entry feature="project.view.pane.Scope.Tests" count="3" />
       <entry feature="project.view.pane.Scratches" count="3" />

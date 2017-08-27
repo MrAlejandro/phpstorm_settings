@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="tc" value="try {&#10;    $SELECTION$&#10;} catch (Exception $e) {&#10;    $END$&#10;}" description="Try/Catch block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

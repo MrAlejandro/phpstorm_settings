@@ -1,5 +1,8 @@
 <keymap version="1" name="Vim" parent="Emacs">
   <action id="$SelectAll" />
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -40,6 +43,10 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -56,6 +63,9 @@
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -81,6 +91,9 @@
   </action>
   <action id="SaveAll" />
   <action id="ScrollTreeToCenter" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="SplitHorizontally" />
   <action id="SplitVertically" />
   <action id="Switcher" />

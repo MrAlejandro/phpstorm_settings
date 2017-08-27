@@ -6,18 +6,21 @@
     <property name="PhpStorm.initialConfigurationShown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
-    <property name="file.gist.reindex.count" value="993" />
-    <property name="lastTip" value="16" />
-    <property name="PLUGIN_FILTER" value="vim&#10;vi" />
+    <property name="file.gist.reindex.count" value="994" />
+    <property name="lastTip" value="17" />
+    <property name="PLUGIN_FILTER" value="smarty&#10;vim&#10;vi" />
     <property name="ideavim.statistics.timestamp" value="1503847102902" />
     <property name="ShowDocumentationInToolWindow" value="true" />
-    <property name="KEYMAP" value="file&#10;navigation&#10;split&#10;previous ta&#10;next" />
-    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="KEYMAP" value="surr&#10;Select in pro&#10;comment&#10;file&#10;navigation" />
+    <property name="settings.code.style.selected.tab.PHP" value="Arrangement" />
     <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
     <property name="selected.color.option.type" value="LIVE_TEMPLATE_ATTRIBUTES" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="plugins.preselection.path" value="$USER_HOME$/ideavim/build/distributions" />
     <property name="OpenOrAttachDialog.OpenMode" value="replace" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ColorChooser.RecentColors" value="33-255-21-255" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
   </component>
 </application>

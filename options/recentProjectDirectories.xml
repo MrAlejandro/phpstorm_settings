@@ -7,6 +7,11 @@
         <option value="$USER_HOME$/Sites/mag" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/vbox/www/cs-cart.local" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/vbox/www/cs-cart.local" />
     <option name="additionalInfo">
       <map>
@@ -27,8 +32,8 @@
               <option name="build" value="PS-172.3544.41" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1503847100888" />
-              <option name="buildTimestamp" value="1501660273920" />
+              <option name="projectOpenTimestamp" value="1503850625653" />
+              <option name="buildTimestamp" value="1501660263205" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
