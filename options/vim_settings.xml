@@ -3,50 +3,145 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503856469302">
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/local_conf.php" timestamp="1508418467990">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/var/test/app/addons/product_variations/database/demo.sql" timestamp="1507905082675">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="695" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/controllers/backend/search.php" timestamp="1504184749123">
+        <mark key="[" line="28" column="110" />
+        <mark key="]" line="28" column="131" />
+        <mark key="." line="28" column="110" />
+        <mark key="^" line="28" column="112" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" timestamp="1508496783133">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/config.local.php" timestamp="1507539659330">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="38" />
+        <mark key="^" line="42" column="38" />
+        <mark key="." line="42" column="38" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/.gitignore" timestamp="1508420746194">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/Validator.php" timestamp="1507538309734">
+        <mark key="[" line="243" column="30" />
+        <mark key="]" line="243" column="36" />
+        <mark key="^" line="243" column="36" />
+        <mark key="." line="243" column="36" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/app/addons/discussion_seo_extension/controllers/frontend/discussion.post.php" timestamp="1504271940734">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/var/tools/migration/migrations/20170913051410_change_cscart_page_description.php" timestamp="1505280552262">
+        <mark key="[" line="12" column="156" />
+        <mark key="]" line="12" column="156" />
+        <mark key="." line="12" column="156" />
+        <mark key="^" line="17" column="115" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/functions/smarty_plugins/modifier.format_price.php" timestamp="1507803864176">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/_tools/unit_tests/templates/compiler/Compiler.php" timestamp="1508307005665">
+        <mark key="[" line="176" column="46" />
+        <mark key="]" line="176" column="46" />
+        <mark key="^" line="176" column="46" />
+        <mark key="." line="176" column="46" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/addons/email_marketing/config.php" timestamp="1505987894624">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/design/themes/responsive/templates/common/price.tpl" timestamp="1503996277543">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/test.php" timestamp="1503855697497">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/addons/email_marketing/schemas/permissions/trusted_controllers.post.php" timestamp="1504609732576">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/mag/1.php" timestamp="1503748803932">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="4" />
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/functions/fn.catalog.php" timestamp="1508311256148">
+        <mark key="'" line="6076" column="9" />
+        <mark key="[" line="7008" column="44" />
+        <mark key="]" line="7008" column="102" />
       </file>
-      <file name="$USER_HOME$/Sites/mag/app/Mage.php" timestamp="1503755376461">
-        <mark key="'" line="825" column="28" />
-        <mark key="[" line="770" column="29" />
-        <mark key="]" line="770" column="28" />
-        <mark key="^" line="770" column="28" />
-        <mark key="." line="770" column="28" />
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_addons.php" timestamp="1508496822509">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="28" column="84" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1503772107235">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/pepyakabox/www/mv.dev/_tools/ipac_builder/ipac_builder.php" timestamp="1507882949667">
+        <mark key="[" line="904" column="0" />
+        <mark key="]" line="904" column="0" />
+        <mark key="." line="904" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/mag/api.php" timestamp="1503746561627">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="13" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="13" />
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/func.php" timestamp="1508313948252">
+        <mark key="'" line="264" column="42" />
+        <mark key="[" line="264" column="42" />
+        <mark key="]" line="264" column="82" />
       </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/Test.php" timestamp="1503856113253">
-        <mark key="[" line="12" column="77" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/controllers/frontend/categories.post.php" timestamp="1508310487835">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/vbox/www/test.local/index.php" timestamp="1503764495829">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/pepyakabox/www/install.dev/result.php" timestamp="1507813626847">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/design/themes/cs-cart.com/templates/addons/static_pages/views/static_page/pages/what_is_cs-cart.tpl" timestamp="1505202501047">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/design/themes/responsive/templates/addons/product_variations/hooks/products/product_tabs.pre.tpl" timestamp="1508313621900">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="113" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" timestamp="1508499913647">
+        <mark key="'" line="798" column="0" />
+        <mark key="[" line="710" column="15" />
+        <mark key="]" line="710" column="20" />
+        <mark key="." line="710" column="20" />
+        <mark key="^" line="710" column="20" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/skins/base/mail/addons/email_marketing/email_marketing.tpl" timestamp="1504620277479">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/vbox/www/cs-cart.local/api.php" timestamp="1503851127001">
         <mark key="[" line="27" column="0" />
@@ -54,150 +149,280 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" timestamp="1503855510794">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/_tools/migration/migrations/20171004162707_core_copy_new_invoice_lang_var_from_default.php" timestamp="1507703264056">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
-      <file name="/PHP Console" timestamp="1503773557752">
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/var/tools/rewrite_rules/src/RewriteRules/GenerateCommand.php" timestamp="1504769263973">
+        <mark key="[" line="139" column="50" />
+        <mark key="]" line="139" column="53" />
+        <mark key="." line="139" column="53" />
+        <mark key="^" line="139" column="53" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/mv.dev/local_conf.php" timestamp="1507014082192">
+        <mark key="[" line="125" column="48" />
+        <mark key="]" line="125" column="49" />
+        <mark key="." line="125" column="49" />
+        <mark key="^" line="125" column="49" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.mve.dev/design/themes/responsive/templates/blocks/wrappers/sidebox_important.tpl" timestamp="1504593021242">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/install.dev/install/app/Installer/Validator.php" timestamp="1507538379042">
+        <mark key="[" line="243" column="30" />
+        <mark key="]" line="243" column="36" />
+        <mark key="^" line="243" column="36" />
+        <mark key="." line="243" column="36" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/var.dev/test.php" timestamp="1508228642403">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+      </file>
+      <file name="/PHP Console" timestamp="1508314084777">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/admin.php" timestamp="1503849976690">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="29" column="8" />
-        <mark key="^" line="29" column="8" />
-        <mark key="." line="29" column="8" />
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/Jenkinsfile" timestamp="1508501015857">
+        <mark key="[" line="461" column="0" />
+        <mark key="]" line="461" column="0" />
+        <mark key="." line="461" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" timestamp="1503684414402">
-        <mark key="q" line="24" column="2" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" timestamp="1508498439792">
+        <mark key="'" line="45" column="75" />
+        <mark key="[" line="119" column="69" />
+        <mark key="]" line="119" column="84" />
+        <mark key="." line="119" column="118" />
+        <mark key="^" line="119" column="116" />
       </file>
-      <file name="/HTML Fragment (api.php:1068).html" timestamp="1503851072251">
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/Tygh/Addons/ProductVariations/Product/AdditionalDataLoader.php" timestamp="1507705723598">
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="432" column="0" />
+        <mark key="." line="432" column="0" />
+        <mark key="^" line="432" column="7" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/_tools/migration/composer.json" timestamp="1507282127154">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508496918174">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.users.php" timestamp="1503855688512">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="18" column="51" />
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/discussion/func.php" timestamp="1507292247664">
+        <mark key="[" line="1176" column="53" />
+        <mark key="]" line="1176" column="63" />
+        <mark key="." line="1176" column="63" />
+        <mark key="^" line="1176" column="63" />
       </file>
-      <file name="$USER_HOME$/vbox/www/cs-cart.local/init.php" timestamp="1503849941701">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="149" column="29" />
+      <file name="$USER_HOME$/pepyakabox/www/var.dev/app/addons/product_variations/func.php" timestamp="1508244599543">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" timestamp="1503748325987">
-        <mark key="'" line="166" column="9" />
+      <file name="/fragment.php" timestamp="1507886252237">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/skip_export_tables.php" timestamp="1508415783059">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/skins/base/mail/addons/email_marketing/email_marketing_subj.tpl" timestamp="1504620372282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/skins/base/mail/addons/email_marketing/email_marketing_body.tpl" timestamp="1504866669223">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/design/themes/responsive/templates/addons/product_variations/hooks/products/product_features.override.tpl" timestamp="1508313742762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Sites/mag/1.php" timestamp="1503748803932">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/addons/helpdesk/controllers/common/support.php" timestamp="1506927837450">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="128" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/cs.dev/design/backend/templates/views/search/results.tpl" timestamp="1504168229872">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/addons/email_marketing/init.php" timestamp="1505134089472">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/lib/phpmailer/class.phpmailer.php" timestamp="1504613275089">
+        <mark key="[" line="583" column="21" />
+        <mark key="]" line="583" column="22" />
+        <mark key="." line="583" column="22" />
+        <mark key="^" line="583" column="22" />
+      </file>
+      <file name="$USER_HOME$/vbox/www/cs-cart.local/app/functions/Test.php" timestamp="1503856113253">
+        <mark key="[" line="12" column="77" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/pepyakabox/www/install.dev/test.php" timestamp="1508140418225">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="354" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="371" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="383" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="684" column="35" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="664" column="36" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="682" column="17" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="677" column="35" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="24" column="1" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="7" column="1" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="38" column="5" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="40" column="6" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="26" column="0" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="146" column="0" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/mag/lib/Varien/Event/Collection.php" />
-      <jump line="2" column="13" filename="$USER_HOME$/Sites/mag/1.php" />
-      <jump line="687" column="6" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="29" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="35" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="54" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="71" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="76" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="80" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="86" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="90" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="98" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="106" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="111" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="117" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="125" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="129" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="133" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="137" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="146" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="155" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="162" column="0" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="171" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="172" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="176" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="177" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="182" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="183" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="199" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="216" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="239" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="261" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="288" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="101" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="127" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="131" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="140" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="149" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="159" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="160" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="165" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="166" column="9" filename="$USER_HOME$/Sites/mag/app/design/frontend/base/default/layout/checkout.xml" />
-      <jump line="678" column="43" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="709" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="721" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="736" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="743" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="754" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="763" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="765" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="776" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="790" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="800" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="804" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="806" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="809" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="814" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="819" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="818" column="0" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="768" column="29" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="769" column="74" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="825" column="28" filename="$USER_HOME$/Sites/mag/app/Mage.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/vbox/www/test.local/index.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="27" column="14" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="24" column="25" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="21" column="10" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="28" column="8" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/admin.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
-      <jump line="71" column="15" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/fn.catalog.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/vbox/www/cs-cart.local/app/functions/test.php" />
+      <jump line="294" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="290" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="287" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="281" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="279" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="277" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="272" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="268" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="264" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="258" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="255" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="249" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="245" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="238" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="234" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="228" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="225" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="210" column="0" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="867" column="27" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/App.php" />
+      <jump line="211" column="31" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="229" column="20" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/SetupController.php" />
+      <jump line="869" column="33" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/App.php" />
+      <jump line="874" column="19" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/App.php" />
+      <jump line="406" column="60" filename="$USER_HOME$/pepyakabox/www/mv.dev/install/app/Installer/App.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/pepyakabox/www/var.dev/config.local.php" />
+      <jump line="167" column="38" filename="$USER_HOME$/pepyakabox/www/var.dev/config.local.php" />
+      <jump line="166" column="0" filename="$USER_HOME$/pepyakabox/www/var.dev/config.local.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/pepyakabox/www/var.dev/config.local.php" />
+      <jump line="379" column="21" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/var/conf/redirection-rules.conf" />
+      <jump line="459" column="22" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.com/var/conf/redirection-rules.conf" />
+      <jump line="1163" column="0" filename="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/func.php" />
+      <jump line="264" column="42" filename="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/func.php" />
+      <jump line="14" column="53" filename="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/controllers/frontend/categories.post.php" />
+      <jump line="0" column="5" filename="$USER_HOME$/pepyakabox/www/cs.dev/design/themes/responsive/templates/addons/product_variations/hooks/products/product_features.override.tpl" />
+      <jump line="24" column="0" filename="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/controllers/frontend/categories.post.php" />
+      <jump line="42" column="21" filename="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/controllers/frontend/categories.post.php" />
+      <jump line="191" column="104" filename="$USER_HOME$/pepyakabox/www/cs.dev/design/themes/responsive/templates/common/product_data.tpl" />
+      <jump line="15" column="132" filename="$USER_HOME$/pepyakabox/www/cs.dev/app/addons/product_variations/database/demo.sql" />
+      <jump line="19" column="41" filename="$USER_HOME$/pepyakabox/www/cs.dev/Jenkinsfile" />
+      <jump line="71" column="35" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="782" column="15" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="91" column="5" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="764" column="36" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="755" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="749" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="745" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="737" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="734" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="724" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="59" column="13" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="587" column="47" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="624" column="33" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="53" column="99" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="49" column="23" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="22" column="1" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="66" column="99" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="751" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="86" column="8" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="39" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="95" column="24" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="88" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="28" column="11" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="123" column="8" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="137" column="27" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="130" column="8" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="57" column="9" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="135" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="77" column="28" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="47" column="20" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="49" column="5" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="32" column="19" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="15" column="216" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="22" column="34" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="31" column="30" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_addons.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_addons.php" />
+      <jump line="26" column="18" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_core.php" />
+      <jump line="14" column="2" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_addons.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_addons.php" />
+      <jump line="468" column="38" filename="$USER_HOME$/pepyakabox/www/cs.dev/Jenkinsfile" />
+      <jump line="47" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/settings_addons.php" />
+      <jump line="106" column="7" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="142" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="94" column="13" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="82" column="145" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="779" column="0" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/src/DemoCreator/DemoCreateCommand.php" />
+      <jump line="119" column="90" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="17" column="68" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="45" column="75" filename="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru/var/tools/demo_creator/schemas/obfuscate_content.php" />
+      <jump line="489" column="5" filename="$USER_HOME$/pepyakabox/www/cs.dev/Jenkinsfile" />
+      <jump line="467" column="0" filename="$USER_HOME$/pepyakabox/www/cs.dev/Jenkinsfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PHP File Header.php</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -209,88 +434,95 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PHP File Header.php</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Exception</text>
+        <text>bomber</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiogICAoYykgMjAwNCBWbGFkaW1pciBWLiBLYWx5bnlhaywgQWxleGV5IFYuIFZpbm9rdXJvdiwgSWx5YSBNLiBTaGFsbmV2ICAgICoKKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgoqIFRoaXMgIGlzICBjb21tZXJjaWFsICBzb2Z0d2FyZSwgIG9ubHkgIHVzZXJzICB3aG8gaGF2ZSBwdXJjaGFzZWQgYSB2YWxpZCAqCiogbGljZW5zZSAgYW5kICBhY2NlcHQgIHRvIHRoZSB0ZXJtcyBvZiB0aGUgIExpY2Vuc2UgQWdyZWVtZW50IGNhbiBpbnN0YWxsICoKKiBhbmQgdXNlIHRoaXMgcHJvZ3JhbS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgoqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKKiBQTEVBU0UgUkVBRCBUSEUgRlVMTCBURVhUICBPRiBUSEUgU09GVFdBUkUgIExJQ0VOU0UgICBBR1JFRU1FTlQgIElOICBUSEUgKgoqICJjb3B5cmlnaHQudHh0IiBGSUxFIFBST1ZJREVEIFdJVEggVEhJUyBESVNUUklCVVRJT04gUEFDS0FHRS4gICAgICAgICAgICAqCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCgp1c2UgVHlnaFxSZWdpc3RyeTsKdXNlIFR5Z2hcTmF2aWdhdGlvblxMYXN0VmlldzsKdXNlIFR5Z2hcSHR0cDsKCmlmICghZGVmaW5lZCgnQk9PVFNUUkFQJykpIHsgZGllKCdBY2Nlc3MgZGVuaWVkJyk7IH0K</text>
+      <register name="0" type="4">
+        <text>cleanStorageData</text>
       </register>
-      <register name="1" type="4">
-        <text>/***************************************************************************
-*                                                                          *
-*   (c) 2004 Vladimir V. Kalynyak, Alexey V. Vinokurov, Ilya M. Shalnev    *
-*                                                                          *
-foreach ( as ) {
-
-$field_list}commercxxxial  e,  only  users  who have purchased a valid *
-* license  and  accept  to the terms of the  License Agreement can install *
-* and use this program.                                                    *
-*                                                                          *
-****************************************************************************
-* PLEASE READ THE FULL TEXT  OF THE SOFTWARE  LICENSE   AGREEMENT  IN  THE *
-* &quot;copyright.txt&quot; FILE PROVIDED WITH THIS DISTRIBUTION PACKAGE.            *
-****************************************************************************/</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFR5Z2hcUmVnaXN0cnk7Cgo=</text>
+        <text encoding="base64">ICAgICAgc3RhZ2UgKCdZYW5kZXggVGFuayBMb2FkIFRlc3RpbmcnKSB7CiAgICAgICAgaWYgKGlzQnVpbGRSZXF1aXJlZCAmJiAhZW52LkNIQU5HRV9JRCkgewogICAgICAgICAgICBkZWYgdmVyc2lvbiA9IGdldFZlcnNpb24oKQogICAgICAgICAgICBkZWYgcHJvZHVjdF9zdGF0dXMgPSBnZXRQcm9kdWN0U3RhdHVzKCkKCiAgICAgICAgICAgIGlmIChmaWxlRXhpc3RzKCIke2Vudi5CVUlMRF9ESVJ9L2NzY2FydF92JHt2ZXJzaW9ufSR7cHJvZHVjdF9zdGF0dXN9LnRneiIpKSB7CiAgICAgICAgICAgICAgICBzaCAiY3VybCAtaSAtRiAnc291cmNlPWplbmtpbnMnIC1GICdleHBlY3RlZF9rcGlbYXZnVHJhbnNhY3Rpb25UaW1lXT00NTInIC1GICdleHBlY3RlZF9rcGlbYXZlcmFnZVRQU109MTEuNScgLUYgJ2J1aWxkX2lkPScke2Vudi5CVUlMRF9OVU1CRVJ9IC1GICdqb2JfaWQ9JyR7ZW52LkpPQl9OQU1FfSAtRiAnYnVpbGRfYXJjaGl2ZXNbdWx0XT1AJyR7ZW52LkJVSUxEX0RJUn0nL2NzY2FydF92JHt2ZXJzaW9ufSR7cHJvZHVjdF9zdGF0dXN9LnRneicgaHR0cDovL2JvbWJlci5obDEuc2FuZGJveC5zbXRrLnVzL2J1aWxkcyIKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGVjaG8gJ1NraXBwZWQnCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFR5Z2hcTmF2aWdhdGlvblxMYXN0VmlldzsKdXNlIFR5Z2hcSHR0cDsK</text>
+        <text encoding="base64">CiAgICAgIHN0YWdlICgnWWFuZGV4IFRhbmsgTG9hZCBUZXN0aW5nJykgewogICAgICAgIGlmIChpc0J1aWxkUmVxdWlyZWQgJiYgIWVudi5DSEFOR0VfSUQpIHsKICAgICAgICAgICAgZGVmIHZlcnNpb24gPSBnZXRWZXJzaW9uKCkKICAgICAgICAgICAgZGVmIHByb2R1Y3Rfc3RhdHVzID0gZ2V0UHJvZHVjdFN0YXR1cygpCgogICAgICAgICAgICBpZiAoZmlsZUV4aXN0cygiJHtlbnYuQlVJTERfRElSfS9jc2NhcnRfdiR7dmVyc2lvbn0ke3Byb2R1Y3Rfc3RhdHVzfS50Z3oiKSkgewogICAgICAgICAgICAgICAgc2ggImN1cmwgLWkgLUYgJ3NvdXJjZT1qZW5raW5zJyAtRiAnZXhwZWN0ZWRfa3BpW2F2Z1RyYW5zYWN0aW9uVGltZV09NDUyJyAtRiAnZXhwZWN0ZWRfa3BpW2F2ZXJhZ2VUUFNdPTExLjUnIC1GICdidWlsZF9pZD0nJHtlbnYuQlVJTERfTlVNQkVSfSAtRiAnam9iX2lkPScke2Vudi5KT0JfTkFNRX0gLUYgJ2J1aWxkX2FyY2hpdmVzW3VsdF09QCcke2Vudi5CVUlMRF9ESVJ9Jy9jc2NhcnRfdiR7dmVyc2lvbn0ke3Byb2R1Y3Rfc3RhdHVzfS50Z3onIGh0dHA6Ly9ib21iZXIuaGwxLnNhbmRib3guc210ay51cy9idWlsZHMiCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlY2hvICdTa2lwcGVkJwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgc3RhZ2UgKCdTdGF0aWMgYW5hbHlzaXMnKSB7CiAgICAgICAgaWYgKGlzQnVpbGRSZXF1aXJlZCkgewogICAgICAgICAgICBpZiAoIWZpbGVFeGlzdHMoIiR7ZW52LlRPT0xTX1JFU19ESVJ9IikpIHsKICAgICAgICAgICAgICAgIHNoICJta2RpciAke2Vudi5UT09MU19SRVNfRElSfSIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWNobyAnQ29weS9QYXN0ZSBEZXRlY3RvciAoQ1BEKSBmb3IgUEhQIGNvZGUnCiAgICAgICAgICAgIHNoIHJldHVyblN0YXR1czogdHJ1ZSwgc2NyaXB0OiAicGhwY3BkIC1xIC0tZXhjbHVkZSB2YXIgLS1leGNsdWRlIGFwcC9hZGRvbnMvYmFyY29kZS9saWIgLS1leGNsdWRlIGFwcC9hZGRvbnMvcHJpY2VfbGlzdC9saWIgLS1leGNsdWRlIGpzL2xpYiAtLWV4Y2x1ZGUgX3Rvb2xzIC0tZXhjbHVkZSBhcHAvbGliIC0tbG9nLXBtZCAke2Vudi5UT09MU19SRVNfRElSfS9waHBjcGQueG1sIgogICAgICAgICAgICBzdGVwIChbJGNsYXNzOiAnaHVkc29uLnBsdWdpbnMuZHJ5LkRyeVB1Ymxpc2hlcicsIHBhdHRlcm46ICJ0b29scy1yZXBvcnRzL3BocGNwZC54bWwiXSkKCiAgICAgICAgICAgIGVjaG8gJ1Rhc2sgUHVibGlzaGVyJwogICAgICAgICAgICBzdGVwIChbJGNsYXNzOiAnaHVkc29uLnBsdWdpbnMudGFza3MuVGFza3NQdWJsaXNoZXInLCBoaWdoOiAnRklYTUUnLCBub3JtYWw6ICdUT0RPJywgcGF0dGVybjogJyoqLyouanMsKiovKi5waHAnLCBleGNsdWRlUGF0dGVybjogJ2FwcC9saWIvLCAuZ2l0LyxfZG9jcy8sX3Rvb2xzLyxqcy9saWIvLHZhci8nXSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlY2hvICdTa2lwcGVkJwogICAgICAgIH0KICAgICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRmaWVsZF9saXN0IGFzICkgewogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJ5IHsKCn0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJvd1snZGF0YSddID0gJyc7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJ5IHsKCn0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcm93LCAkc3RvcmVfbW9kZSk7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Exception</last-search>
+      <last-search>bomber</last-search>
       <last-offset />
-      <last-pattern>Exception</last-pattern>
+      <last-pattern>bomber</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
-        <entry>server</entry>
-        <entry>mage</entry>
-        <entry encoding="base64">XDxtYWdlXD4=</entry>
-        <entry>option</entry>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
-        <entry>update</entry>
-        <entry>test</entry>
-        <entry>time</entry>
-        <entry>Exception</entry>
+        <entry encoding="base64">XDxQcm9kdWN0TWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxzaG93X2ZlYXR1cmVzXD4=</entry>
+        <entry>fn_get_product_features_list</entry>
+        <entry>show_features</entry>
+        <entry encoding="base64">c3RvcmVmcm9udF9kb21haW4gPSA=</entry>
+        <entry>replacePa</entry>
+        <entry>serialize</entry>
+        <entry encoding="base64">XDxkb21haW5fcmVwbGFjZW1lbnRzXD4=</entry>
+        <entry encoding="base64">XDxzdGF0aWNfZGF0YVw+</entry>
+        <entry>?:users</entry>
+        <entry encoding="base64">XDxjbGllbnRfaWRcPg==</entry>
+        <entry>url_download_link</entry>
+        <entry>source</entry>
+        <entry>storage_data</entry>
+        <entry>replaceEmailDOm</entry>
+        <entry>replaceEmail</entry>
+        <entry>storeMode</entry>
+        <entry>#row</entry>
+        <entry encoding="base64">XDxyZXBsYWNlUGFzc3dvcmRcPg==</entry>
+        <entry>bomber</entry>
       </history-search>
       <history-cmd>
-        <entry>set surround</entry>
-        <entry>100</entry>
-        <entry>wq</entry>
-        <entry>q10</entry>
-        <entry>set nu</entry>
-        <entry>20</entry>
-        <entry>1</entry>
-        <entry>set paste</entry>
+        <entry>45</entry>
+        <entry>125</entry>
+        <entry>25</entry>
+        <entry>835</entry>
+        <entry>1409</entry>
+        <entry>1610</entry>
+        <entry>838</entry>
+        <entry>1602</entry>
+        <entry>11</entry>
+        <entry>154</entry>
+        <entry>1004</entry>
+        <entry>191</entry>
         <entry>q</entry>
+        <entry>190</entry>
+        <entry>set surround</entry>
+        <entry>wq</entry>
+        <entry>74</entry>
+        <entry>92</entry>
+        <entry>35</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -329,6 +561,15 @@ $field_list}commercxxxial  e,  only  users  who have purchased a valid *
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

@@ -57,6 +57,9 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -73,6 +76,7 @@
   <action id="Images.Thumbnails.Hide">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
   <action id="NextProjectWindow" />
   <action id="NextSplitter">

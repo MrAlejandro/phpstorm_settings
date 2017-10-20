@@ -6,12 +6,12 @@
     <property name="PhpStorm.initialConfigurationShown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
-    <property name="file.gist.reindex.count" value="994" />
-    <property name="lastTip" value="17" />
-    <property name="PLUGIN_FILTER" value="smarty&#10;vim&#10;vi" />
-    <property name="ideavim.statistics.timestamp" value="1503847102902" />
+    <property name="file.gist.reindex.count" value="12373" />
+    <property name="lastTip" value="39" />
+    <property name="PLUGIN_FILTER" value="sort&#10;Line sort&#10;vim&#10;git&#10;smarty" />
+    <property name="ideavim.statistics.timestamp" value="1508500802368" />
     <property name="ShowDocumentationInToolWindow" value="true" />
-    <property name="KEYMAP" value="surr&#10;Select in pro&#10;comment&#10;file&#10;navigation" />
+    <property name="KEYMAP" value="find&#10;surr&#10;Select in pro&#10;comment&#10;file" />
     <property name="settings.code.style.selected.tab.PHP" value="Arrangement" />
     <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
     <property name="selected.color.option.type" value="LIVE_TEMPLATE_ATTRIBUTES" />
@@ -22,5 +22,16 @@
     <property name="ColorChooser.RecentColors" value="33-255-21-255" />
     <property name="FileColorsForTabsEnabled" value="true" />
     <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com/controllers&#10;/Users/ascherbachenko/pepyakabox/www/dev.helpdesk.cs-cart.com/core" />
+    <property name="find.popup.splitter" value="0.62974685" />
+    <property name="SplitFileEditor.Proportion" value="0.31630647" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.29859155" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.4168565" />
+    <property name="evlsprt.172" value="15ec1d8575a" />
+    <property name="evlsprt2.172" value="15e6a7bfcd9" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5883978" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
   </component>
 </application>

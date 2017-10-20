@@ -2,49 +2,133 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/vbox/www/cs-cart.local" />
-        <option value="$USER_HOME$/vbox/www/test.local" />
-        <option value="$USER_HOME$/Sites/mag" />
+        <option value="$USER_HOME$/pepyakabox/www/cs.dev" />
+        <option value="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru" />
+        <option value="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com" />
+        <option value="$USER_HOME$/pepyakabox/www/var.dev" />
+        <option value="$USER_HOME$/pepyakabox/www/dev.cs-cart.com" />
+        <option value="$USER_HOME$/pepyakabox/www/mv.dev" />
+        <option value="$USER_HOME$/pepyakabox/www/install.dev" />
+        <option value="$USER_HOME$/pepyakabox/www/addons-for-demos" />
+        <option value="$USER_HOME$/pepyakabox/www/cs.mve.dev" />
+        <option value="$USER_HOME$/pepyakabox/www/cs.ru.dev" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/vbox/www/cs-cart.local" />
+        <option value="$USER_HOME$/pepyakabox/www/cs.dev" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/vbox/www/cs-cart.local" />
+    <option name="lastPath" value="$USER_HOME$/pepyakabox/www/cs.dev" />
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Sites/mag">
+        <entry key="$USER_HOME$/pepyakabox/www/addons-for-demos">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="PS-172.3544.41" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1503746034518" />
-              <option name="buildTimestamp" value="1501660312466" />
+              <option name="projectOpenTimestamp" value="1507639450174" />
+              <option name="buildTimestamp" value="1501660277263" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/vbox/www/cs-cart.local">
+        <entry key="$USER_HOME$/pepyakabox/www/cs.dev">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="PS-172.3544.41" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1503850625653" />
-              <option name="buildTimestamp" value="1501660263205" />
+              <option name="projectOpenTimestamp" value="1508500802025" />
+              <option name="buildTimestamp" value="1501660285210" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/vbox/www/test.local">
+        <entry key="$USER_HOME$/pepyakabox/www/cs.mve.dev">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="PS-172.3544.41" />
               <option name="productionCode" value="PS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1503758426024" />
-              <option name="buildTimestamp" value="1501660312466" />
+              <option name="projectOpenTimestamp" value="1507278987211" />
+              <option name="buildTimestamp" value="1501660315361" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/cs.ru.dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507192924440" />
+              <option name="buildTimestamp" value="1501660284074" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/dev.cs-cart.com">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508239794499" />
+              <option name="buildTimestamp" value="1501660277263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/dev.cs-cart.ru">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508496747219" />
+              <option name="buildTimestamp" value="1501660285210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/dev.helpdesk.cs-cart.com">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508482939381" />
+              <option name="buildTimestamp" value="1501660285210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/install.dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508136561792" />
+              <option name="buildTimestamp" value="1501660277263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/mv.dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508154231211" />
+              <option name="buildTimestamp" value="1501660277263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pepyakabox/www/var.dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508241631376" />
+              <option name="buildTimestamp" value="1501660277263" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
